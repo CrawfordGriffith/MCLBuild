@@ -4,7 +4,7 @@ Primarily this repo hosts my Vintage Computer Festival East Presentation and a s
 
 "MicroCore Labs Emulators.pdf"  VCFE 2024 Presentation
 
-"MCLBuild.pdf"  Generic butild instructions for MCL boards
+"MCLBuild.pdf"  Generic build instructions for MCL boards
 
 
 
